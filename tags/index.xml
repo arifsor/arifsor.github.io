@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Java to Javascript</title>
-    <link>http://example.org/tags/</link>
+    <link>https://arifsor.github.io/tags/</link>
     <description>Recent content in Tags on Java to Javascript</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>arif.sor@gmail.com (Arif Sorathia)</managingEditor>
     <webMaster>arif.sor@gmail.com (Arif Sorathia)</webMaster>
     <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arifsor.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bigimg</title>
-      <link>http://example.org/tags/bigimg/</link>
+      <link>https://arifsor.github.io/tags/bigimg/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
       <author>arif.sor@gmail.com (Arif Sorathia)</author>
-      <guid>http://example.org/tags/bigimg/</guid>
+      <guid>https://arifsor.github.io/tags/bigimg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example</title>
-      <link>http://example.org/tags/example/</link>
+      <link>https://arifsor.github.io/tags/example/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>arif.sor@gmail.com (Arif Sorathia)</author>
-      <guid>http://example.org/tags/example/</guid>
+      <guid>https://arifsor.github.io/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photoswipe</title>
-      <link>http://example.org/tags/photoswipe/</link>
+      <link>https://arifsor.github.io/tags/photoswipe/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>arif.sor@gmail.com (Arif Sorathia)</author>
-      <guid>http://example.org/tags/photoswipe/</guid>
+      <guid>https://arifsor.github.io/tags/photoswipe/</guid>
       <description></description>
     </item>
     

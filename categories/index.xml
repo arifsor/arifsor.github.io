@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Java to Javascript</title>
-    <link>http://example.org/categories/</link>
+    <link>https://arifsor.github.io/categories/</link>
     <description>Recent content in Categories on Java to Javascript</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>arif.sor@gmail.com (Arif Sorathia)</managingEditor>
     <webMaster>arif.sor@gmail.com (Arif Sorathia)</webMaster>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arifsor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
